@@ -1,4 +1,5 @@
 *.pkl
+*.txt
 /mecab-ipadic-neologd/
 api_keys.py
 recent_tweets_predict.py
