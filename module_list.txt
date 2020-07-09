@@ -1,9 +1,0 @@
-numpy
-pandas
-pickle
-tensorflow
-tqdm
-emoji
-MeCab(using neologd)
-scikit-learn
-oauthlib
